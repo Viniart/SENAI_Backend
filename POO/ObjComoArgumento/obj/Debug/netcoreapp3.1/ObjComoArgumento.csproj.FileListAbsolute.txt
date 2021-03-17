@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\bin\Debug\netcoreapp3.1\ObjComoArgumento.exe
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\bin\Debug\netcoreapp3.1\ObjComoArgumento.deps.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\bin\Debug\netcoreapp3.1\ObjComoArgumento.runtimeconfig.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\bin\Debug\netcoreapp3.1\ObjComoArgumento.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\bin\Debug\netcoreapp3.1\ObjComoArgumento.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\bin\Debug\netcoreapp3.1\ObjComoArgumento.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\obj\Debug\netcoreapp3.1\ObjComoArgumento.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\obj\Debug\netcoreapp3.1\ObjComoArgumento.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\obj\Debug\netcoreapp3.1\ObjComoArgumento.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\obj\Debug\netcoreapp3.1\ObjComoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\obj\Debug\netcoreapp3.1\ObjComoArgumento.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\obj\Debug\netcoreapp3.1\ObjComoArgumento.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ObjComoArgumento\obj\Debug\netcoreapp3.1\ObjComoArgumento.genruntimeconfig.cache

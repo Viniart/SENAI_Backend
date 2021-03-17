@@ -1,0 +1,24 @@
+Receber duas notas de um aluno, e dizer se ele está aprovado ou reprovado.
+
+Critérios:
+Aprovado se sua média > 7.
+Caso contrário estará reprovado.
+___________________________________________________
+Escrever -> "Digite a primeira nota: "
+variavel nota1 = Ler a entrada do usuário
+
+Escrever -> "Digite a segunda nota: "
+variavel nota2 = Ler a entrada do usuário
+
+variavel media = nota1 + nota2 / nºde entradas
+
+variavel situacao = ""
+
+se media > 7 
+	situacao = "Aprovado"
+senao
+	situação = "Reprovado"
+
+Escrever -> situacao
+____________________________________________________
+final

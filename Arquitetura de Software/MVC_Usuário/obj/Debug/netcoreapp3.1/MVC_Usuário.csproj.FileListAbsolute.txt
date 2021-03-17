@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\bin\Debug\netcoreapp3.1\MVC_Usuário.exe
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\bin\Debug\netcoreapp3.1\MVC_Usuário.deps.json
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\bin\Debug\netcoreapp3.1\MVC_Usuário.runtimeconfig.json
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\bin\Debug\netcoreapp3.1\MVC_Usuário.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\bin\Debug\netcoreapp3.1\MVC_Usuário.dll
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\bin\Debug\netcoreapp3.1\MVC_Usuário.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\obj\Debug\netcoreapp3.1\MVC_Usuário.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\obj\Debug\netcoreapp3.1\MVC_Usuário.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\obj\Debug\netcoreapp3.1\MVC_Usuário.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\obj\Debug\netcoreapp3.1\MVC_Usuário.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\obj\Debug\netcoreapp3.1\MVC_Usuário.dll
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\obj\Debug\netcoreapp3.1\MVC_Usuário.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\Arquitetura de Software\MVC_Usuário\obj\Debug\netcoreapp3.1\MVC_Usuário.genruntimeconfig.cache

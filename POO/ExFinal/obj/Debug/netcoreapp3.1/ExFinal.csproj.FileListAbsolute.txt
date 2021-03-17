@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\bin\Debug\netcoreapp3.1\ExFinal.exe
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\bin\Debug\netcoreapp3.1\ExFinal.deps.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\bin\Debug\netcoreapp3.1\ExFinal.runtimeconfig.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\bin\Debug\netcoreapp3.1\ExFinal.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\bin\Debug\netcoreapp3.1\ExFinal.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\bin\Debug\netcoreapp3.1\ExFinal.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\obj\Debug\netcoreapp3.1\ExFinal.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\obj\Debug\netcoreapp3.1\ExFinal.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\obj\Debug\netcoreapp3.1\ExFinal.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\obj\Debug\netcoreapp3.1\ExFinal.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\obj\Debug\netcoreapp3.1\ExFinal.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\obj\Debug\netcoreapp3.1\ExFinal.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ExFinal\obj\Debug\netcoreapp3.1\ExFinal.genruntimeconfig.cache

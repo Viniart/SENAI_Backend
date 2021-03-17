@@ -1,0 +1,23 @@
+Calculo de Soma
+
+Calcular a soma de dois numeros INTEIROS, e exibir na tela o resultado
+
+Início
+Receber o primeiro número
+Receber o segundo número
+
+Numero1 + Numero2
+
+Resultado da soma
+
+Mostrar resultado na tela
+_________________________________
+Escrever -> "Digite o primeiro numero: "
+variavel num1 = Ler entrada do usuario
+
+Escrever -> "Digite o segundo numero: "
+variavel num2 = Ler a entrada do usuario
+
+variavel soma = num1 + num2
+
+Escrever -> soma

@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\bin\Debug\netcoreapp3.1\Aula 2.exe
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\bin\Debug\netcoreapp3.1\Aula 2.deps.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\bin\Debug\netcoreapp3.1\Aula 2.runtimeconfig.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\bin\Debug\netcoreapp3.1\Aula 2.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\bin\Debug\netcoreapp3.1\Aula 2.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\bin\Debug\netcoreapp3.1\Aula 2.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.genruntimeconfig.cache

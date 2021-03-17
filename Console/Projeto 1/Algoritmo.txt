@@ -1,0 +1,18 @@
+Escreva na tela "Bem Vindo" para algum usuário. (Bem vindo User)
+
+Entrada, Processamento e Saída
+_________________________________________________
+Início
+Perguntar o nome do usuário
+
+Juntar a frase com o nome
+
+Mostrar na tela a frase de boas vindas
+_________________________________________________
+
+Escreva -> "Digite seu nome: "
+variavel nome = Ler a entrada do usuario
+
+variavel resultado = "Bem vindo" + a
+
+Escrever -> resultado

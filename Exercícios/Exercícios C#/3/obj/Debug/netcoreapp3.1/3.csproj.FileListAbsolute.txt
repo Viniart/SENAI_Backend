@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\obj\Debug\netcoreapp3.1\3.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\obj\Debug\netcoreapp3.1\3.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\obj\Debug\netcoreapp3.1\3.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\obj\Debug\netcoreapp3.1\3.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\bin\Debug\netcoreapp3.1\3.exe
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\bin\Debug\netcoreapp3.1\3.deps.json
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\bin\Debug\netcoreapp3.1\3.runtimeconfig.json
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\bin\Debug\netcoreapp3.1\3.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\bin\Debug\netcoreapp3.1\3.dll
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\bin\Debug\netcoreapp3.1\3.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\obj\Debug\netcoreapp3.1\3.dll
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\obj\Debug\netcoreapp3.1\3.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios C#\3\obj\Debug\netcoreapp3.1\3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.exe
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.deps.json
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.runtimeconfig.json
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.dll
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.dll
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.genruntimeconfig.cache

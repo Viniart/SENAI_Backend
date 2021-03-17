@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\bin\Debug\netcoreapp3.1\Desafio(Versão Prof).exe
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\bin\Debug\netcoreapp3.1\Desafio(Versão Prof).deps.json
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\bin\Debug\netcoreapp3.1\Desafio(Versão Prof).runtimeconfig.json
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\bin\Debug\netcoreapp3.1\Desafio(Versão Prof).runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\bin\Debug\netcoreapp3.1\Desafio(Versão Prof).dll
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\bin\Debug\netcoreapp3.1\Desafio(Versão Prof).pdb
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\obj\Debug\netcoreapp3.1\Desafio(Versão Prof).csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\obj\Debug\netcoreapp3.1\Desafio(Versão Prof).AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\obj\Debug\netcoreapp3.1\Desafio(Versão Prof).AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\obj\Debug\netcoreapp3.1\Desafio(Versão Prof).csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\obj\Debug\netcoreapp3.1\Desafio(Versão Prof).dll
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\obj\Debug\netcoreapp3.1\Desafio(Versão Prof).pdb
+C:\Users\Desktop\Desktop\Codação\Backend\Exercícios\Exercícios Est. Repetição\Desafio(Versão Prof)\obj\Debug\netcoreapp3.1\Desafio(Versão Prof).genruntimeconfig.cache

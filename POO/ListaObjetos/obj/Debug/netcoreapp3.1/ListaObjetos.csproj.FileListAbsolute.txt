@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.exe
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.deps.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.runtimeconfig.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.genruntimeconfig.cache

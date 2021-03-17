@@ -1,0 +1,11 @@
+C:\Users\dev\Desktop\Codacion\bin\Debug\netcoreapp3.1\Codacion.exe
+C:\Users\dev\Desktop\Codacion\bin\Debug\netcoreapp3.1\Codacion.deps.json
+C:\Users\dev\Desktop\Codacion\bin\Debug\netcoreapp3.1\Codacion.runtimeconfig.json
+C:\Users\dev\Desktop\Codacion\bin\Debug\netcoreapp3.1\Codacion.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Codacion\bin\Debug\netcoreapp3.1\Codacion.dll
+C:\Users\dev\Desktop\Codacion\bin\Debug\netcoreapp3.1\Codacion.pdb
+C:\Users\dev\Desktop\Codacion\obj\Debug\netcoreapp3.1\Codacion.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Codacion\obj\Debug\netcoreapp3.1\Codacion.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Codacion\obj\Debug\netcoreapp3.1\Codacion.AssemblyInfo.cs
+C:\Users\dev\Desktop\Codacion\obj\Debug\netcoreapp3.1\Codacion.dll
+C:\Users\dev\Desktop\Codacion\obj\Debug\netcoreapp3.1\Codacion.pdb

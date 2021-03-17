@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\bin\Debug\netcoreapp3.1\Abstração.exe
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\bin\Debug\netcoreapp3.1\Abstração.deps.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\bin\Debug\netcoreapp3.1\Abstração.runtimeconfig.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\bin\Debug\netcoreapp3.1\Abstração.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\bin\Debug\netcoreapp3.1\Abstração.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\bin\Debug\netcoreapp3.1\Abstração.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\obj\Debug\netcoreapp3.1\Abstração.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\obj\Debug\netcoreapp3.1\Abstração.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\obj\Debug\netcoreapp3.1\Abstração.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\obj\Debug\netcoreapp3.1\Abstração.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\obj\Debug\netcoreapp3.1\Abstração.dll
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\obj\Debug\netcoreapp3.1\Abstração.pdb
+C:\Users\Desktop\Desktop\Codação\Backend\POO\Abstração\obj\Debug\netcoreapp3.1\Abstração.genruntimeconfig.cache
